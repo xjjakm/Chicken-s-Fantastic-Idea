@@ -1,0 +1,23 @@
+
+package net.mcreator.amod.item;
+
+import net.minecraft.world.level.block.state.BlockState;
+import net.minecraft.world.item.Rarity;
+import net.minecraft.world.item.ItemStack;
+import net.minecraft.world.item.Item;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.resources.ResourceKey;
+import net.minecraft.core.registries.Registries;
+
+import net.mcreator.amod.AModMod;
+
+public class Music1Item extends Item {
+	public Music1Item(Item.Properties properties) {
+		super(properties.rarity(Rarity.UNCOMMON).stacksTo(1).jukeboxPlayable(ResourceKey.create(Registries.JUKEBOX_SONG, ResourceLocation.fromNamespaceAndPath(AModMod.MODID, "music_1"))));
+	}
+
+	@Override
+	public float getDestroySpeed(ItemStack itemstack, BlockState state) {
+		return 0f;
+	}
+}
