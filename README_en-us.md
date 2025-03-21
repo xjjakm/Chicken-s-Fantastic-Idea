@@ -1,3 +1,4 @@
+## [简体中文](https://github.com/xjjakm/Chicken-s-Fantastic-Idea/) Engilsh
 # Chicken's Fantastic Idea
 # Introduction
 A simple module made with [mcreator](https://github.com/MCreator/MCreator) with complex components.
