@@ -1,3 +1,4 @@
+## 简体中文 [English](https://github.com/xjjakm/Chicken-s-Fantastic-Idea/blob/main/README_en-us.md)
 # Chicken's Fantastic Idea（小只因的奇思妙想）
 # 简介
 使用[mcreator](https://github.com/MCreator/MCreator)制作的简单模组，成分复杂。
