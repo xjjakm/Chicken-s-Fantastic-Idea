@@ -2,11 +2,15 @@
 # Chicken's Fantastic Idea
 # Introduction
 A simple module made with [mcreator](https://github.com/MCreator/MCreator) with complex components.
-![Things added in version 1.0.2](https://github.com/xjjakm/Chicken-s-Fantastic-Idea/blob/main/Gallery/2025-03-21_20.07.26.png)
-(Mod version) 1.0.2 Three items added (don't count wood, record player and display frame)
+![Things added in version 1.0.2](https://github.com/xjjakm/Chicken-s-Fantastic-Idea/blob/main/Gallery/2025-03-28_20.32.40.png)
+(Mod version) 1.0.3  four items added (don't count wood, record player 和 display frame)
 
 # compatibility
-Minecraft 1.21.4, neoforge 21.4.101-beta and above
+Minecraft 1.21.4, 
+
+neoforge 21.4.101-beta (mod version1.0.2-)
+
+neoforge 21.4.123(mod version1.0.3+)
 
 # License
 I use the permissive MIT license
