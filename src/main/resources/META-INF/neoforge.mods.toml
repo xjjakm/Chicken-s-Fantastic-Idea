@@ -16,7 +16,7 @@ authors="xjjak, MCreator"
 [[dependencies.a_mod]]
     modId="neoforge"
     type="required"
-    versionRange="[21.4.101-beta,)"
+    versionRange="[21.4.123,)"
     ordering="AFTER"
     side="BOTH"
 

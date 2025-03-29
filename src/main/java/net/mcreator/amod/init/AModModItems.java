@@ -9,6 +9,7 @@ import net.neoforged.neoforge.registries.DeferredItem;
 
 import net.minecraft.world.item.Item;
 
+import net.mcreator.amod.item.Music2Item;
 import net.mcreator.amod.item.Music1Item;
 import net.mcreator.amod.item.BugmodItem;
 import net.mcreator.amod.AModMod;
@@ -19,6 +20,7 @@ public class AModModItems {
 	public static final DeferredRegister.Items REGISTRY = DeferredRegister.createItems(AModMod.MODID);
 	public static final DeferredItem<Item> STONEFRUIT = register("stonefruit", BugmodItem::new);
 	public static final DeferredItem<Item> MUSIC_1 = register("music_1", Music1Item::new);
+	public static final DeferredItem<Item> MUSIC_2 = register("music_2", Music2Item::new);
 
 	// Start of user code block custom items
 	// End of user code block custom items

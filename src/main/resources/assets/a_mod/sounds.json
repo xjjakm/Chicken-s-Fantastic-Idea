@@ -7,5 +7,13 @@
         "stream": true
       }
     ]
+  },
+  "ysyy": {
+    "sounds": [
+      {
+        "name": "a_mod:ye_sheng_yin_le_",
+        "stream": true
+      }
+    ]
   }
 }

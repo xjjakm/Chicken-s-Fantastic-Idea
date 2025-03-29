@@ -1,0 +1,11 @@
+{
+  "asset_id": "a_mod:hua_2",
+  "height": 2,
+  "width": 2,
+  "title": {
+    "translate": "painting.a_mod.hua_2.title"
+  },
+  "author": {
+    "translate": "painting.a_mod.hua_2.author"
+  }
+}

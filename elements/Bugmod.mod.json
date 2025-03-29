@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "customProperties": {},
     "states": [],
-    "name": "Bugmod",
+    "name": "兑了沙砾的水果",
     "rarity": "RARE",
     "creativeTabs": [
       {
@@ -19,8 +19,8 @@
     ],
     "stackSize": 64,
     "enchantability": 0,
-    "useDuration": 6,
-    "toolType": 0.0,
+    "useDuration": 20,
+    "toolType": 1.0,
     "damageCount": 0,
     "recipeRemainder": {
       "value": ""

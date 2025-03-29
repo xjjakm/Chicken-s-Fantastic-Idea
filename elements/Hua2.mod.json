@@ -1,0 +1,11 @@
+{
+  "_fv": 77,
+  "_type": "painting",
+  "definition": {
+    "texture": "aris11",
+    "width": 32,
+    "height": 32,
+    "title": "aris",
+    "author": "Stable Diffusion"
+  }
+}

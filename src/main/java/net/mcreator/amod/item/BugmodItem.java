@@ -4,7 +4,6 @@ package net.mcreator.amod.item;
 import net.neoforged.api.distmarker.OnlyIn;
 import net.neoforged.api.distmarker.Dist;
 
-import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
@@ -18,12 +17,7 @@ public class BugmodItem extends Item {
 
 	@Override
 	public int getUseDuration(ItemStack itemstack, LivingEntity livingEntity) {
-		return 6;
-	}
-
-	@Override
-	public float getDestroySpeed(ItemStack itemstack, BlockState state) {
-		return 0f;
+		return 20;
 	}
 
 	@Override

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "a_mod:stable_diffusion"
+    "a_mod:stable_diffusion",
+    "a_mod:hua_2"
   ]
 }

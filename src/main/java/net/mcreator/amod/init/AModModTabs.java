@@ -25,6 +25,7 @@ public class AModModTabs {
 			() -> CreativeModeTab.builder().title(Component.translatable("item_group.a_mod.amod")).icon(() -> new ItemStack(AModModItems.STONEFRUIT.get())).displayItems((parameters, tabData) -> {
 				tabData.accept(AModModItems.STONEFRUIT.get());
 				tabData.accept(AModModItems.MUSIC_1.get());
+				tabData.accept(AModModItems.MUSIC_2.get());
 			}).build());
 
 	@SubscribeEvent
@@ -33,6 +34,7 @@ public class AModModTabs {
 			tabData.accept(AModModItems.STONEFRUIT.get());
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(AModModItems.MUSIC_1.get());
+			tabData.accept(AModModItems.MUSIC_2.get());
 		}
 	}
 }

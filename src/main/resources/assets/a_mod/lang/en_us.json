@@ -1,11 +1,16 @@
 {
-  "item.a_mod.music_1.desc": "千本桜(千本樱) - 黒うさP,初音ミク",
-  "item.a_mod.stonefruit": "Bugmod",
+  "item.a_mod.stonefruit": "兑了沙砾的水果",
   "advancements.bugmodcj.descr": "穷死了凑合着吃吧(使用金胡萝卜混沙砾合成一个奇怪物品)",
   "item.a_mod.music_1": "音乐唱片",
   "painting.a_mod.stable_diffusion.title": "ako23",
+  "item.a_mod.music_2": "音乐唱片",
   "subtitles.qby": "唱片：播放",
-  "item_group.a_mod.amod": "Amod",
   "painting.a_mod.stable_diffusion.author": "Stable Diffusion",
+  "item.a_mod.music_1.desc": "千本桜(千本樱) - 黒うさP,初音ミク",
+  "painting.a_mod.hua_2.title": "aris",
+  "subtitles.ysyy": "",
+  "painting.a_mod.hua_2.author": "Stable Diffusion",
+  "item_group.a_mod.amod": "Amod",
+  "item.a_mod.music_2.desc": "这玩意我也不知道是什么",
   "advancements.bugmodcj.title": "拼好饭?"
 }
