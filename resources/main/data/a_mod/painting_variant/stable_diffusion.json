@@ -1,0 +1,11 @@
+{
+  "asset_id": "a_mod:stable_diffusion",
+  "height": 3,
+  "width": 2,
+  "title": {
+    "translate": "painting.a_mod.stable_diffusion.title"
+  },
+  "author": {
+    "translate": "painting.a_mod.stable_diffusion.author"
+  }
+}

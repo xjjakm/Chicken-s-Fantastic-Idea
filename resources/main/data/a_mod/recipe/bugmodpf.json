@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "food",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:gravel",
+    "minecraft:golden_carrot"
+  ],
+  "result": {
+    "id": "a_mod:stonefruit",
+    "count": 2
+  }
+}

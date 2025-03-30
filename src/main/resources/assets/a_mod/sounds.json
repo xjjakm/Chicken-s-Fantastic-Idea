@@ -15,5 +15,21 @@
         "stream": true
       }
     ]
+  },
+  "ldxq": {
+    "sounds": [
+      {
+        "name": "a_mod:wiz_khalifa_charlie_puth_-_see_you_againmu_tong_bian_su_ban_",
+        "stream": false
+      }
+    ]
+  },
+  "aaa": {
+    "sounds": [
+      {
+        "name": "a_mod:see_you_again",
+        "stream": true
+      }
+    ]
   }
 }

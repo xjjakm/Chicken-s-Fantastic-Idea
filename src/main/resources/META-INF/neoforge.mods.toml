@@ -1,14 +1,16 @@
 modLoader="javafml"
 loaderVersion="[4,)"
-license="Not specified"
+license="MIT License"
 
 [[mods]]
 modId="a_mod"
-version="1.0.0"
-displayName="a mod"
-displayURL="https://mcreator.net"
+version="1.0.5"
+displayName="Chicken's Fantastic Idea"
+displayURL="https://github.com/xjjakm/Chicken-s-Fantastic-Idea"
+logoFile="logo.png"
 credits="Created using mod maker MCreator - https://mcreator.net/about"
-authors="xjjak, MCreator"
+authors="chxjj, MCreator"
+description="\u5947\u602A\u4E1C\u897F\u4E00\u5806"
 
 # Start of user code block mod configuration
 # End of user code block mod configuration

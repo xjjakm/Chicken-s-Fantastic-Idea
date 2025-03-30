@@ -1,6 +1,8 @@
 {
   "replace": false,
   "values": [
+    "a_mod:music_4",
+    "a_mod:music_3",
     "a_mod:music_2",
     "a_mod:music_1"
   ]

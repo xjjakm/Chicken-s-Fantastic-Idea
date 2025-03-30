@@ -26,6 +26,8 @@ public class AModModTabs {
 				tabData.accept(AModModItems.STONEFRUIT.get());
 				tabData.accept(AModModItems.MUSIC_1.get());
 				tabData.accept(AModModItems.MUSIC_2.get());
+				tabData.accept(AModModItems.MUSIC_3.get());
+				tabData.accept(AModModItems.MUSIC_4.get());
 			}).build());
 
 	@SubscribeEvent
@@ -35,6 +37,8 @@ public class AModModTabs {
 		} else if (tabData.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
 			tabData.accept(AModModItems.MUSIC_1.get());
 			tabData.accept(AModModItems.MUSIC_2.get());
+			tabData.accept(AModModItems.MUSIC_3.get());
+			tabData.accept(AModModItems.MUSIC_4.get());
 		}
 	}
 }
